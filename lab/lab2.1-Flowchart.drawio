@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="o51QGD2CUJGEWY5Cjo10">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O-9M1Zy5Yf9Ze_MMKhIU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O-9M1Zy5Yf9Ze_MMKhIU-2" target="O-9M1Zy5Yf9Ze_MMKhIU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-9M1Zy5Yf9Ze_MMKhIU-2" value="Start" style="ellipse" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O-9M1Zy5Yf9Ze_MMKhIU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O-9M1Zy5Yf9Ze_MMKhIU-4" target="O-9M1Zy5Yf9Ze_MMKhIU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-9M1Zy5Yf9Ze_MMKhIU-4" value="เตรียมวัตถุดิบ: ข้าวสวย, หมูกรอบ, ไข่เยี่ยวม้า, กระเพรา, กระเทียม, พริก, น้ำมัน, ซอส" style="rectangle" vertex="1" parent="1">
+          <mxGeometry x="235" y="240" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-9M1Zy5Yf9Ze_MMKhIU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-9M1Zy5Yf9Ze_MMKhIU-6" target="O-9M1Zy5Yf9Ze_MMKhIU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-9M1Zy5Yf9Ze_MMKhIU-6" value="เตรียมอุปกรณ์ครัว: กระทะ, ตะหลิว, ถ้วย, จาน" style="rectangle" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-9M1Zy5Yf9Ze_MMKhIU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O-9M1Zy5Yf9Ze_MMKhIU-8" target="O-9M1Zy5Yf9Ze_MMKhIU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-9M1Zy5Yf9Ze_MMKhIU-8" value="Process: ตั้งกระทะ ใส่น้ำมัน → ผัดกระเทียม → ใส่หมูกรอบ → ใส่ข้าว → ปรุงรส → ใส่กระเพรา → ผัดให้เข้ากัน" style="rectangle" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="640" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O-9M1Zy5Yf9Ze_MMKhIU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-9M1Zy5Yf9Ze_MMKhIU-10" target="O-9M1Zy5Yf9Ze_MMKhIU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-9M1Zy5Yf9Ze_MMKhIU-10" value="Process: ปอกไข่เยี่ยวม้า → หั่นครึ่ง" style="rectangle" vertex="1" parent="1">
+          <mxGeometry x="360" y="510" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-9M1Zy5Yf9Ze_MMKhIU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-9M1Zy5Yf9Ze_MMKhIU-12" target="O-9M1Zy5Yf9Ze_MMKhIU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-9M1Zy5Yf9Ze_MMKhIU-12" value="จัดจาน: วางข้าวผัดกระเพราบนจาน → วางไข่เยี่ยวม้า" style="rectangle" vertex="1" parent="1">
+          <mxGeometry x="350" y="610" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-9M1Zy5Yf9Ze_MMKhIU-13" value="Stop" style="ellipse" vertex="1" parent="1">
+          <mxGeometry x="450" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
